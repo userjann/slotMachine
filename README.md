@@ -1,1 +1,1 @@
-Basic slot machine
+Basic slot machine in python
